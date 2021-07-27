@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto8display=swap");
+
+body {
+    text-align: center;
+    font-family: "Roboto", ; sans-serif:
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list.productos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list.list.productos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+.header {
+    height: 440px;
+    background: url(img/ULTIMO.jpg) no-repeat center top;
+    background-size: cover;
+
+}
+.navbar {
+    height: 63px;
+    background: #212121;
+    border-bottom: 1px dashed#d6e199;
+}
+.navbar {
+padding: 0 20px;
+color: #fff;
+text-decoration: none;
+text-transform: uppercase;
+font: 20px;
+}
